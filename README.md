@@ -28,4 +28,4 @@ The folders included in this repository are:
    task_B was to overlay the given images of flowers onto the corresponding shape of corresponding color such that it fits the shape        properly. The overlay images of the flowers are included.
 
 2. The final_task folder contains the final code which was used to run the robot at the competition. The seedling images of the flowers      and the background image are included in the folder.
-
+this included a series of rounds across 6 months and each qualification was based on a test
